@@ -1,0 +1,20 @@
+.img2{
+	width: 100%;
+	background-color: red;
+}
+.articulo{
+	margin: 40px;
+}
+.section{
+	display: flex;
+}
+.text{
+	width: 50%;
+}
+.imgp{
+	margin: 40px;
+}
+.imgp .imgpp{
+	width: 50%;
+	
+}

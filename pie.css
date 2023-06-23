@@ -1,0 +1,11 @@
+/*este archivo perstenese al id pie que es el pie de la pagina a qui se cnfigura las imagenes y lo que se ocupe*/
+#pie{
+	background-color: blanchedalmond;
+}
+#pie .face{
+	width: 5%;
+}
+#pie .what{
+	width: 5%;
+
+}
